@@ -1,5 +1,11 @@
-# Simple-ChatBot
-It's an Simple Chat-Bot 
+# JavaScript Chatbot 
 
-This is made of Java Script and Html with Basic Commands and the language is the english.
-You can devlop by adding more responses, more commands and by adding new languages.
+This is a very simple "chatbot" using nothing but JavaScript, HTML, & CSS. I put this in quotes because chatbots these days are way more complex - this is an exercise in vanilla JS loops and conditionals, not AI.
+
+I hope it makes a good intro for anyone interested in chatbots and frontend fundamentals.
+
+Enjoy!
+
+[Demo](https://sylviapap.github.io/chatbot/)
+
+[Blog post](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
